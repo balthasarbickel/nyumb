@@ -66,14 +66,14 @@ for FILE in _recipes/*.md; do
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
     # contains the relative path
-    x /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/pandoc "$FILE" \
+    x pandoc "$FILE" \
         --metadata-file config.yaml \
         --metadata basename="$(basename "$FILE" .md)" \
         --template _templates/technical/category.template.txt \
         -t html -o "_temp/$(basename "$FILE" .md).category.txt"
 
     # extract metadata, set htmlfile in order to link to it on the index page
-    x /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/pandoc "$FILE" \
+    x pandoc "$FILE" \
         --metadata htmlfile="$(basename "$FILE" .md).html" \
         --template _templates/technical/metadata.template.json \
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
@@ -126,7 +126,7 @@ for FILE in _recipes/*.md; do
 
     # set basename to enable linking to github in the footer, and set
     # category_faux_urlencoded in order to link to that in the header
-    x /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/pandoc "$FILE" \
+    x pandoc "$FILE" \
         --metadata-file config.yaml \
         --metadata basename="$(basename "$FILE" .md)" \
         --metadata category_faux_urlencoded="$CATEGORY_FAUX_URLENCODED" \
@@ -137,7 +137,7 @@ done
 
 status "Building category pages..."
 for FILE in _temp/*.category.json; do
-    x /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/pandoc _templates/technical/empty.md \
+    x pandoc _templates/technical/empty.md \
         --metadata-file config.yaml \
         --metadata title="dummy" \
         --metadata updatedtime="$(date "+%Y-%m-%d")" \
@@ -147,7 +147,7 @@ for FILE in _temp/*.category.json; do
 done
 
 status "Building index page..."
-x /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/pandoc _templates/technical/empty.md \
+x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
