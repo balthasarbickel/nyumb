@@ -62,6 +62,7 @@ for FILE in _recipes/*; do
 done
 
 status "Extracting metadata..."
+
 for FILE in _recipes/*.md; do
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
