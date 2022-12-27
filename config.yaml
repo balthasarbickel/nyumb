@@ -13,7 +13,7 @@ show_images_on_index:
 
 # You can change the content language (really only relevant for hyphenation)
 # and related textual labels here.
-lang: en
+lang: de
 strings:
   search_placeholder: Search...
   uncategorized_label: Uncategorized
