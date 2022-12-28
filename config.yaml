@@ -1,6 +1,6 @@
 # Text shown on the index page.
 index_title: Rezepte von Balthasar und Sabine
-index_description:
+index_description: Hinweis:<br>Die Mengenangaben sind ungefähr, v.a. bei Öl und Butter gilt einfach die Regel, dass es so viel braucht, dass nichts anbrennt, aber nicht mehr.
   
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -11,19 +11,20 @@ show_images_on_index:
 # and related textual labels here.
 lang: de
 strings:
-  search_placeholder: Search...
+  search_placeholder: Suche...
   uncategorized_label: Uncategorized
   source_label: Source
   vegan_label: Vegan
-  meat_label: Meat
+  veg_label: Vegetarisch
+  meat_label: Nichtvegetarisch
   spicy_label: Spicy
   sweet_label: Sweet
   salty_label: Salty
   sour_label: Sour
   bitter_label: Bitter
   umami_label: Umami
-  footer_text: Enjoy!
-  updated_on: Updated on
+  footer_text: Geniess es!
+  updated_on: Aktualisiert am
   edit: Edit
 
 # If you maintain your recipes in a GitHub repository, you can specify its URL

@@ -33,13 +33,16 @@
                 $elseif(source)$
                     <li><a href="$source$"><img src="assets/tabler-icons/tabler-icon-link.svg"> $strings.source_label$</a></li>
                 $endif$
-                $if(veggie)$$else$
+                $if(veg)$$else$
                     $if(vegan)$$else$
                         <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</li>
                     $endif$
                 $endif$
                 $if(vegan)$
                     <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.vegan_label$</li>
+                $endif$
+                $if(veg)$
+                    <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.veg_label$</li>
                 $endif$
                 $if(spicy)$
                     <li><img src="assets/tabler-icons/tabler-icon-pepper.svg"> $strings.spicy_label$</li>
