@@ -4,14 +4,22 @@ size: 4
 time: 40m mit Dampfkochtopf; 2h sonst
 ---
 
-* `1-2` Rotkrautköpfe, je nach Grösse
 * `2-3` Zwiebeln, je nach Grösse
 * `1` Pepperoncino
+* ` ` Butter
+
+> Die Zwiebeln und den Pepperoncino fein schneiden und in Butter ca. 10m dünsten bis sie leicht goldig sind.
+
+---
+
+* `1-2` Rotkrautköpfe, je nach Grösse
+
+> In feine Streifen  schneiden 
+> 
 * `3 TL` Salz (oder mehr)
-* `1 tbsp` cooking oil
-* `¼ tsp` pepper
-* `2-3 tbsp` rice or corn syrup
-* `2 tbsp` water
+* `3 dl` Rotwein
+* Pfeffer
+* Wasser
 
 > Mix in an oven-proof saucepan or cast-iron skillet – you should end up with a thick marinade.
 
