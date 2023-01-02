@@ -1,5 +1,13 @@
 [
-{"title":"Randen","category":"Schweiz","veg":"✓","htmlfile":"Randen.html","size":"4","time":"60m"}
-,{"title":"Rotkraut","category":"Schweiz","veg":"✓","htmlfile":"Rotkraut.html","size":"4","time":"45m mit Dampfkochtopf; 2h sonst"}
-,{"title":"Coq au vin à l’italienne","category":"Italien","htmlfile":"coqauvin.html","size":"4","time":"60m","meat":"✓"}
+{"title":"आलू गोभी","category":"Indien","veg":"✓","description":"","htmlfile":"Alugobhi.html","size":"4","time":"60m"}
+,{"title":"दाल","category":"Indien","veg":"✓","description":"Nach einem Rezept von meinem Kollegen Yogendra Yadava","htmlfile":"Daal.html","size":"4","time":"60m"}
+,{"title":"Dörrbohnen (Tüüri Boone)","category":"Schweiz","veg":"✓","description":"","htmlfile":"Doerrbohnen.html","size":"4","time":"30m mit Dampfkochtopf"}
+,{"title":"एक्री","category":"Indien","veg":"✓","description":"Eier-Curry, benannt nach der Aussprache des Kondukteurs im Gorakhpur-Delhi Express; inspiriert von Camellia Panjabi’s <em>50 Great Curries of India</em>","htmlfile":"Ekri.html","size":"4","time":"60m"}
+,{"title":"Kartoffelgratin","category":"Schweiz","veg":"✓","description":"","htmlfile":"Kartoffelgratin.html","size":"4","time":"60m"}
+,{"title":"Randen","category":"Schweiz","veg":"✓","description":"","htmlfile":"Randen.html","size":"4","time":"60m"}
+,{"title":"Rotkraut","category":"Schweiz","veg":"✓","description":"","htmlfile":"Rotkraut.html","size":"4","time":"45m mit Dampfkochtopf; 2h sonst"}
+,{"title":"Schwarzwurzeln","category":"Schweiz","veg":"✓","description":"","htmlfile":"Schwarzwurzel.html","size":"4","time":"60m"}
+,{"title":"Soupe à l’oignon","category":"Frankreich","description":"Ich mache diese Suppe immer aus einem Fonds, den ich durch stundenlanges (ca. 6h) Auskochen der Knochen von grilliertem Geflügel gewinne (z.B. Rumpf einer am Spiess gebratenen Weihnachtsgans.)","htmlfile":"Soupealoignon.html","size":"4","time":"1h","meat":"✓"}
+,{"title":"Coq au vin à l’italienne","category":"Italien","description":"","htmlfile":"coqauvin.html","size":"4","time":"60m","meat":"✓"}
+,{"title":"Roastbeef","category":"Schweiz","description":"","htmlfile":"roastbeef.html","size":"4","time":"4h","meat":"✓"}
 ]
