@@ -4,6 +4,7 @@ size: 4
 time: 60m
 category: Schweiz
 veg: ✓
+description: 
 ---
 
 * `2-3` Zwiebeln

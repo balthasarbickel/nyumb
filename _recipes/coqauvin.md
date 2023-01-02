@@ -4,6 +4,7 @@ size: 4
 time: 60m
 category: Italien
 meat: ✓
+description: 
 ---
 
 * `8` Pouletstücke
@@ -13,12 +14,15 @@ meat: ✓
 
 ---
 
+* `1 Handvoll` Datteltomaten
 * `1 Handvoll` Oliven (entsteint)
 * `3` Knoblauchzehen
-* `1` Zitrone
-* `1 Handvoll` Datteltomaten
+* `1` Zitrone (Schale davon)
+* ` ` Pfeffer
+* ` ` Salz, grobkörnig
 
-> Die halbierten Tomaten dazugeben, unter die Pouletstücke schieben, kurz mit anbraten (Flamme etwas reduzieren); dann Zitronenschale abreiben und zusammen mit Knoblauch und Oliven klein hacken, auch dazugeben; 
+
+> Die halbierten Tomaten dazugeben, unter die Pouletstücke schieben, kurz mit anbraten (Flamme etwas reduzieren); dann Zitronenschale abreiben und zusammen mit Knoblauch und Oliven klein hacken, auch dazugeben; salzen und pfeffern
 
 ---
 

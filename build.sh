@@ -170,5 +170,11 @@ x cp -r _temp/search.json _site/
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
 
+cd _book
+pandoc -f markdown -t markdown -i combined.md  -s --lua-filter convert_yaml.lua | sed -e 's/\-.*`\(.*\)` \(.*\)/\\ingredient{\1}\{\2\}/g' | sed -e 's/------.*/\\freeform\\hrulefill/g'| pandoc --template=cuisine.latex --pdf-engine=xelatex -o book.pdf
+
+# from command line:
+# pandoc -f markdown -t markdown -i combined.md  -s --lua-filter convert_yaml.lua | sed -e 's/\-.*`\(.*\)` \(.*\)/\\\ingredient{\\1}\\{\\2\\}/g' | sed -e 's/------.*/\\\freeform\\\hrulefill/g'| pandoc --template=cuisine.latex --pdf-engine=xelatex -o book.pdf
+
 EMOJI="🍇🍈🍉🍊🍋🍌🍍🥭🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🌶️🥒🥬🥦"
 status "All done after $TIME_TOTAL seconds!" "${EMOJI:RANDOM%${#EMOJI}:1}"

@@ -4,6 +4,7 @@ size: 4
 time: 45m mit Dampfkochtopf; 2h sonst
 category: Schweiz
 veg: ✓
+description: 
 ---
 
 * `2-3` Zwiebeln
@@ -23,6 +24,5 @@ veg: ✓
 * `3 dl` Rotwein
 * ` ` Wasser
 * ` ` Salz
-
 
 > Mit dem Wein ablöschen, salzen nach Bedarf. Mit Wasser aufgiessen, bis die Flüssigkeit sichtbar ist, aber nicht das Rotkraut übersteigt. 10min im Dampfkochtopf auf 2. Stufe, anschliessend mit offenem Deckel so lange einkochen, bis nur noch wenig Flüssigkeit bleibt, mindestens etwa 10min. 

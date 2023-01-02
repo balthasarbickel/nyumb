@@ -1,2 +1,4 @@
 _temp/
 _site/
+*.pdf
+*.log
