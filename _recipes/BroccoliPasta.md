@@ -3,7 +3,7 @@ title: Broccoli-Pasta
 size: 4
 time: 30m
 category: Schweiz
-vegan: ✓
+veg: ✓
 description: 
 ---
 
@@ -26,13 +26,8 @@ description:
 - `4 EL` Olivenöl
 - `4 EL` Parmesan
 - `2` Zitronen
-- `1 H` Basilikum
-- `2 Gabeln` Kapern
-- `1 H` Schnittlauch
-- `1 H` Petersilie
-- `1`	Schale einer Zitrone
+- `1 H` Basilikum (o. Petersilie)
+- ` ` Pfeffer
 - ` ` Salz
-- `1` Knoblauchzehe
-- `1 TL` Senf
 
-> Sauce: Kräuter und Kapern fein hacken, Knoblauch pressen und mit allem gut vermischen 
+> Alles gut vermischen und am Schluss mit Broccoli und Farfalle vermischen.
