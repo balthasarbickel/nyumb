@@ -9,7 +9,9 @@
 ,{"title":"Dörrbohnen (Tüüri Boone)","category":"Schweiz","veg":"✓","description":"","htmlfile":"Doerrbohnen.html","size":"4","time":"30m mit Dampfkochtopf"}
 ,{"title":"एक्री","category":"Indien","veg":"✓","description":"Eier-Curry, benannt nach der Aussprache des Kondukteurs im Gorakhpur-Delhi Express; inspiriert von Camellia Panjabi’s <em>50 Great Curries of India</em>","htmlfile":"Ekri.html","size":"4","time":"60m"}
 ,{"htmlfile":"Fleischpflanzl.html"}
+,{"title":"Eingerührter Teig","category":"Schweiz","veg":"✓","description":"Rührteig für Allerlei","htmlfile":"GerührterTeig.html","size":"4","time":"10m"}
 ,{"title":"Kartoffelgratin","category":"Schweiz","veg":"✓","description":"","htmlfile":"Kartoffelgratin.html","size":"4","time":"60m"}
+,{"title":"Mürbteig","category":"Deutschland","description":"Omas 123 Rezept","htmlfile":"Mürbteig.html","sweet":"✓","size":"4","time":"10m"}
 ,{"title":"Quarktorte","category":"Schweiz","description":"","htmlfile":"Quarktorte.html","sweet":"✓","size":"8","time":"2h"}
 ,{"title":"Randen","category":"Schweiz","veg":"✓","description":"","htmlfile":"Randen.html","size":"4","time":"60m"}
 ,{"htmlfile":"Reisauflauf.html"}
