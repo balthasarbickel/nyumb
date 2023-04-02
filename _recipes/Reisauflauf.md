@@ -17,7 +17,7 @@ description: Omas Reisauflauf, ursprünglich von Uroma in Rothenburg.
 
 - `200 g` Milchreis
 
-waschen und zur Milch dazugeben bis der Reis aufgequollen ist und breiig wird. Dabei ständig rühren, aber nur langsam kochen lassen. Danach. abkühlen lassen.  
+> Milchreis waschen und zur Milch dazugeben bis der Reis aufgequollen ist und breiig wird. Dabei ständig rühren, aber nur langsam kochen lassen. Danach. abkühlen lassen.  
 
 ---
 - `3-4` Eier
@@ -31,13 +31,13 @@ waschen und zur Milch dazugeben bis der Reis aufgequollen ist und breiig wird. D
 - `100 g` Rosinen
 - `2-4 kleingesschnitten` Äpfel
 
-> unter den Reis mischen. Die Masse in eine gut gebutterte feuerfeste Form geben. Ofen vorheizen auf 180 Grad ca. Ober und Unterhitze oder Umluft dann 200 Grad.
+> Rosinen und Äfpel unter den Reis mischen. Die Masse in eine gut gebutterte feuerfeste Form geben. Ofen vorheizen auf 180 Grad ca. Ober und Unterhitze oder Umluft dann 200 Grad.
 
 ---
 
 - `1-2 EL` Zucker
 - `etwas` Semmelbrösel
-- `Butterflöckchen`
+- `Butter`
 
-> darüberstreuen. Ab in den Ofen für ca 30-40 Minuten. 
+> Buutter in Flöckchen schneiden. Zucker, Semmelblödel und Butterschätzli darüberstreuen. Ab in den Ofen für ca 30-40 Minuten. 
  

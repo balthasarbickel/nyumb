@@ -15,7 +15,7 @@ description: Apfelkuchen à la Mama
 - `1` Ei
 - `1 Päckchen` Vanillezucker
 
-> zu einer Kugel kneten. Dann in eine runde Tarteform auf Backpapierlegen. Mit Gabel einstechen. Etwas kaltstellen oder auch nicht ;-). Je nach Zeit, Lust und Laune.
+> Alle Zutaten zu einer Kugel kneten. Dann in eine runde Tarteform auf Backpapierlegen. Mit Gabel einstechen. Etwas kaltstellen oder auch nicht ;-). Je nach Zeit, Lust und Laune.
 
 ---
 

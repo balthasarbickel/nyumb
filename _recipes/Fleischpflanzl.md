@@ -16,7 +16,7 @@ description: Omas Fleischpflanzl
 
 - ` 2-3` Zwiebeln
 
-> kleinschneiden.
+> Zwiebeln kleinschneiden.
 
 ---
 
@@ -25,5 +25,5 @@ description: Omas Fleischpflanzl
 - `etwas` Majoran
 - `etwas` Pfeffer
 
-> alles zusammenmischen. Handvoll der Masse flachdrücken und alles in einer Pfanne anbraten. 
+> Alles zusammenmischen. Handvoll der Masse flachdrücken und alles in einer Pfanne anbraten. 
 

@@ -25,19 +25,19 @@ description:
 - `ca. 1/2 Tafel` halbbittere Schoggi 
 
 
-> in kleine Brösel schneiden (mahlen)
+> Schoggi in kleine Brösel schneiden (mahlen)
 
 ---
 
 - `1 Pckg.` Mascarpone
 
-zur Masse dazugeben. 
+> Mascarpone zur Masse dazugeben. 
 
 ---
 
 - `5` Espressi (so ungefähr)
 
-> machen. Schokoloade zur Masse geben. Etwas Milch in den Kaffee tun. Einen Teil der Masse in eine niegrige grosse Form geben.
+> Espressi machen. Schokoloade zur Masse geben. Etwas Milch in den Kaffee tun. Einen Teil der Masse in eine niegrige grosse Form geben.
 
 ---
 
