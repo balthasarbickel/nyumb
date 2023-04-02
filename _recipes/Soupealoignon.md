@@ -4,7 +4,7 @@ size: 4
 time: 1h
 category: Frankreich
 meat: ✓
-description: Ich mache diese Suppe immer aus einem Fonds, den ich durch stundenlanges (ca. 6h) Auskochen der Knochen von grilliertem Geflügel gewinne (z.B. Rumpf einer am Spiess gebratenen Weihnachtsgans.)
+description: Wir machen diese Suppe immer aus einem Fonds, den wir durch stundenlanges (ca. 6h) Auskochen der Knochen von grilliertem Geflügel gewinne (z.B. Rumpf einer am Spiess gebratenen Weihnachtsgans.)
 ---
 
 
