@@ -3,7 +3,6 @@ title: Unser Kochbuch
 author: Sabine und Balthasar
 papersize: a4
 date: 2023
-# mainfont: Arial Unicode MS
 ---
 \newpage
 \vspace*{\fill}
@@ -79,3 +78,13 @@ date: 2023
 
 ![](../_recipes/roastbeef.md){.markdown}
 
+
+\newpage 
+\vspace*{\fill}
+\textbf{\Huge \sf Dessert}
+\vspace*{\fill}
+\thispagestyle{empty}
+\newpage
+
+
+![](../_recipes/Quarktorte.md){.markdown}

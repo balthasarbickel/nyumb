@@ -1,0 +1,101 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage[left=2cm,top=2cm,right=2cm]{geometry}
+\author{}
+\date{}
+
+\usepackage{amsmath,amssymb}
+% % \usepackage{lmodern}
+% \usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \usepackage{fontspec,xltxtra,xunicode}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  % \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\usepackage[nonumber]{cuisine}
+\usepackage{xpatch}
+\makeatletter
+\xpatchcmd{\Displ@ySt@p}{\arabic{st@pnumber}}{}{}{}
+\makeatother
+
+
+% \usepackage{fontspec,xltxtra,xunicode}
+%         \defaultfontfeatures{Mapping=tex-text}
+%         \setmainfont[Mapping=tex-text]{Shobhika}
+
+\usepackage{fontspec,xltxtra,xunicode}
+    \defaultfontfeatures{Mapping=tex-text}
+    % \setromanfont[Mapping=tex-text]{Helvetica} 
+  % \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{DejaVu Sans}
+  % \setmathsfont(Latin,Digits){Junicode} 
+  % \setmathsfont(Greek){Dialekt Uni} % or de-activate and use \pi etc. (looks better with \hat etc.)
+  \newfontfamily\devanagarifont[Scale=0.8]{Devanagari MT}  
+
+
+% \RecipeWidths{Total recipe width}{Step number width}{Number of servings width}    {Ingredient width}{Quantity width}{Units width}
+% \RecipeWidths{.5\textwidth}{0cm}{1\textwidth}{3.5cm}{.5\textwidth}{1cm}
+
+\renewcommand*{\recipetitlefont}{\Large\bfseries\sffamily}
+\renewcommand*{\recipeservingsfont}{\itshape}
+\renewcommand*{\recipetimefont}{\bfseries\itshape}
+\renewcommand*{\recipefreeformfont}{\itshape}
+
+\usepackage{titling}
+\pretitle{\begin{center}\Huge\bfseries\sffamily}
+ \posttitle{\par\end{center}\vskip 2cm}
+
+ \preauthor{\begin{center}
+            \Large\sffamily \lineskip 2cm%
+            \begin{tabular}[t]{c}}
+ \postauthor{\end{tabular}\par\end{center}}
+
+\predate{\vfill\begin{center}\Large\sffamily}
+ \postdate{\par\end{center}}
+
+\begin{document}
+
+
+
+
+
+\end{document}

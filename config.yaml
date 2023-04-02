@@ -18,7 +18,7 @@ strings:
   veg_label: Vegetarisch
   meat_label: Nichtvegetarisch
   spicy_label: Spicy
-  sweet_label: Sweet
+  sweet_label: Dessert
   salty_label: Salty
   sour_label: Sour
   bitter_label: Bitter

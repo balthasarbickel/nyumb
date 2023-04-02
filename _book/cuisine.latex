@@ -471,7 +471,7 @@ $endif$
   % \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{DejaVu Sans}
   % \setmathsfont(Latin,Digits){Junicode} 
   % \setmathsfont(Greek){Dialekt Uni} % or de-activate and use \pi etc. (looks better with \hat etc.)
-  \newfontfamily\D[Scale=0.8]{Devanagari MT}  
+  \newfontfamily\devanagarifont[Scale=0.8]{Devanagari MT}  
 
 
 % \RecipeWidths{Total recipe width}{Step number width}{Number of servings width}    {Ingredient width}{Quantity width}{Units width}
