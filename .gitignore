@@ -2,3 +2,6 @@ _temp/
 _site/
 *.pdf
 *.log
+.DS_Store
+.Rhistory
+
