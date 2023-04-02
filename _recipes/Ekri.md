@@ -16,20 +16,20 @@ description: Eier-Curry, benannt nach der Aussprache des Kondukteurs im Gorakhpu
 - `1.5 cm` Ingwer
 - `2 Zehen` Knoblauch
 
-Im Mörser zu einer gleichmässigen Paste verarbeiten
+> Im Mörser zu einer gleichmässigen Paste verarbeiten
 
 ---
 
 - `4-5` Zwiebeln
 - `1 TL` Fenchelsamen
-- `1 TL` Ausgelassene Butter (घी)
+- `1 EL` Ausgelassene Butter (घी)
 - `1 Büchse` Tomaten (in Stücken) oder 2 frische Tomaten
 - `1 Büchse` Kokosmilch
 
-Zuerst Fenchelsamen kurz in die heisse Butter, dann Zwiebel dazu und goldbraun braten (ca 20m). Anschliessend die Gewürzpaste mit anbraten und dann mit den Tomaten und der Kokosmilch ablöschen
+> Zuerst Fenchelsamen kurz in die heisse Butter, dann Zwiebel dazu und goldbraun braten (ca 20m). Anschliessend die Gewürzpaste mit anbraten und dann mit den Tomaten und der Kokosmilch ablöschen
 
 ---
 
 * `8` Eier
 
-Hartkochen, schälen und halbiert ins Curry geben.
+> Hartkochen, schälen und halbiert ins Curry geben.

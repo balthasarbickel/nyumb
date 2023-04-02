@@ -1,6 +1,6 @@
 # Text shown on the index page.
 index_title: Rezepte von Balthasar und Sabine
-index_description: Hinweis:<br>Die Mengenangaben sind ungefähr, v.a. bei Öl und Butter gilt einfach die Regel, dass es so viel braucht, dass nichts anbrennt, aber nicht mehr.
+index_description: Hinweis:<br>Die Mengenangaben sind ungefähr, v.a. bei Öl und Butter gilt einfach die Regel, dass es so viel braucht, dass nichts anbrennt, aber nicht mehr. Abkürzung "H" für Hampfle (eine Hand voll).
   
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent

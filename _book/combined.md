@@ -6,7 +6,7 @@ date: 2023
 ---
 \newpage
 \vspace*{\fill}
-\hfill\textit{Für Tara und Lulu}
+\hfill\textit{Für Tara}
 \vspace*{\fill}
 \thispagestyle{empty}
 \newpage
@@ -49,6 +49,10 @@ date: 2023
 \newpage
 
 ![](../_recipes/Alugobhi.md){.markdown}
+
+\newpage
+
+![](../_recipes/Daal.md){.markdown}
 
 \newpage
 

@@ -8,9 +8,9 @@ description:
 
 ---
 
-- `70g` Zucker
-- `140g` Butter (weich)
-- `210g` Mehl
+- `70 g` Zucker
+- `140 g` Butter (weich)
+- `210 g` Mehl
 - `1` Vanillezuck
 - `1` Ei
 
@@ -31,8 +31,8 @@ description:
 
 ----
 
-- `750g` 3/4-Fett Quark 
-- `200g` Crème fraiche 
+- `750 g` 3/4-Fett Quark 
+- `200 g` Crème fraiche 
 - `2 EL` Mehl
 
 Vorsichtig mit Eigelbmasse und Eiweiss mischen und damit Springform auffüllen. Bei 180° mit starker Unterhitze ca. 40' backen.

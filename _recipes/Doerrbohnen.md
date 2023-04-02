@@ -14,6 +14,7 @@ description:
 ---
 
 - `5-6` Gedörrte Tomaten oder frische Datteltomaten
+- `2 EL` Butter
 - `1` Pepperoncino (optional)
 - `2` Zwiebeln
 - `1-2` Knoblauchzehen

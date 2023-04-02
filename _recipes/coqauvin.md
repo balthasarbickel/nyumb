@@ -14,8 +14,8 @@ description:
 
 ---
 
-* `1 Handvoll` Datteltomaten
-* `1 Handvoll` Oliven (entsteint)
+* `1 H` Datteltomaten
+* `1 H` Oliven (entsteint)
 * `3` Knoblauchzehen
 * `1` Zitrone (Schale davon)
 * ` ` Pfeffer

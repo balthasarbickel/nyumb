@@ -4,7 +4,7 @@ size: 4
 time: 30m
 category: Indien
 veg: ✓
-description: Nach einem Rezept von meinem Kollegen Yogendra Yādāva, mit dem ich in den 90er Jahren über Maithili gearbeitet habe.
+description: Nach einem Rezept von unserem Kollegen Yogendra Yādāva, mit dem Balthasar in den 90er Jahren über Maithili gearbeitet hat.
 
 ---
 
@@ -12,7 +12,7 @@ description: Nach einem Rezept von meinem Kollegen Yogendra Yādāva, mit dem ic
 - `2 TL` Turmeric
 - `2 TL` Salz (nach Geschmack)
 
-In ca. 1-1.5l Wasser kochen bis zur gewünschten Konsistenz
+> In ca. 1-1.5l Wasser kochen bis zur gewünschten Konsistenz
 
 ---
 
@@ -22,4 +22,4 @@ In ca. 1-1.5l Wasser kochen bis zur gewünschten Konsistenz
 - `2-3` Curryblätter (wenn verfügbar)
 - `1 EL` Butter
 
-Zwiebel und Ingwer sehr fein schneiden und in Butter dunkel anbraten. Curryblätter kurz mit anbraten. Anschliessend zu den fertiggekochten Linsen dazumischen.
+> Zwiebel und Ingwer sehr fein schneiden und in Butter dunkel anbraten. Curryblätter kurz mit anbraten. Anschliessend zu den fertiggekochten Linsen dazumischen.
