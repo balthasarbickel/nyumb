@@ -1,5 +1,5 @@
 ---
-title: Aelplermagronen
+title: Älplermagronen
 size: 6
 time: 30m
 category: Schweiz
