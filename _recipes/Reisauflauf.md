@@ -1,7 +1,7 @@
 ---
 title: Reisauflauf
 size: 4
-time: 1 h
+time: 1h
 category: Deutschland
 sweet: ✓
 veg: ✓

@@ -1,7 +1,7 @@
 ---
 title: Apfelkuchen 123
-size: 10
-time: 1 h
+size: 8
+time: 1h
 category: Deutschland
 sweet: ✓
 veg: ✓
@@ -20,7 +20,7 @@ description: Apfelkuchen à la Mama
 
 ---
 
-- `x` Äpfel
+- ` ` Äpfel
 - `etwas` Zucker
 
 
