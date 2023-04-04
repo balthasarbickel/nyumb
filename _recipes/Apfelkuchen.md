@@ -4,6 +4,7 @@ size: 10
 time: 1 h
 category: Deutschland
 sweet: ✓
+veg: ✓
 description: Apfelkuchen à la Mama
 
 ---

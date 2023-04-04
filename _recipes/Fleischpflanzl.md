@@ -2,8 +2,8 @@
 title: Fleischpflanzl
 size: 4
 time: 30m
-category: Deutschlandt
-meat ✓
+category: Deutschland
+meat: ✓
 description: Omas Fleischpflanzl
 
 ---

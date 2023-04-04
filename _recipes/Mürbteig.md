@@ -4,6 +4,7 @@ size: 4
 time: 10m
 category: Deutschland
 sweet: ✓
+veg: ✓
 description: Omas 123 Rezept
 
 ---

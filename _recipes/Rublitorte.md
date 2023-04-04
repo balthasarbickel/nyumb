@@ -4,6 +4,7 @@ size: 8
 time: 1h
 category: Schweiz
 sweet: ✓
+veg: ✓
 description: 
 
 ---

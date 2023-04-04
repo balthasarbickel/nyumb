@@ -4,6 +4,7 @@ size: 4
 time: 1 h
 category: Deutschland
 sweet: ✓
+veg: ✓
 description: Omas Reisauflauf, ursprünglich von Uroma in Rothenburg.
 
 ---

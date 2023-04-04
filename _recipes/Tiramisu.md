@@ -4,6 +4,7 @@ size: 4
 time: 60m
 category: Italien
 sweet: ✓
+veg: ✓
 description: 
 
 ---

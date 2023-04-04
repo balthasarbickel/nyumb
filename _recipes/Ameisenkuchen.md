@@ -4,6 +4,7 @@ size: 4
 time: 60m
 category: Deutschland
 sweet: ✓
+veg: ✓
 description: Omas Ameisenkuchen
 
 ---

@@ -5,7 +5,7 @@ $if(show_images_on_index)$<div class="entry">$endif$
     <h3>
         <i class="icons">
             $if(it.favorite)$<img src="assets/tabler-icons/tabler-icon-star.svg">$endif$
-            $if(it.veg)$$else$$if(it.vegan)$$else$<img src="assets/tabler-icons/tabler-icon-meat.svg" alt="$strings.meat_label$">$endif$$endif$
+            <!-- $if(it.veg)$$else$$if(it.vegan)$$else$<img src="assets/tabler-icons/tabler-icon-meat.svg" alt="$strings.meat_label$">$endif$$endif$ -->
             $if(it.vegan)$<img src="assets/tabler-icons/tabler-icon-leaf.svg" alt="$strings.vegan_label$">$endif$
             $if(it.veg)$<img src="assets/tabler-icons/tabler-icon-leaf.svg" alt="$strings.veg_label$">$endif$
             $if(it.spicy)$<img src="assets/tabler-icons/tabler-icon-pepper.svg" alt="$strings.spicy_label$">$endif$
