@@ -11,7 +11,7 @@ description: Apfelkuchen à la Mama
 
 - `70 g` Zucker
 - `140 g` Butter
-- `210 g' Mehl
+- `210 g` Mehl
 - `1 Prise` Salz
 - `1` Ei
 - `1 Päckchen` Vanillezucker

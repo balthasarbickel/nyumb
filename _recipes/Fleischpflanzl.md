@@ -21,7 +21,7 @@ description: Omas Fleischpflanzl
 ---
 
 - `1 kg` Hackfleisch (halb/halb)
-- `1 TL' Salz oder nach Bedarf
+- `1 TL` Salz oder nach Bedarf
 - `etwas` Majoran
 - `etwas` Pfeffer
 

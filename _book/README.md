@@ -13,4 +13,6 @@ pandoc -f markdown -t markdown -i combined.md  -s --lua-filter convert_yaml.lua 
 
 What does not work is the Devanagri display in recipe titles. If I add `\D` (as defined with `xelatex::fontspec` in `cusine.latex`) to the markdown, it works well for PDF but inserts a literal `\D` in html. Easiest fix right now is to generate `.tex` and then to postprocess it by hand, adding `\D`.
 
+Search via regex [ऄ-ॿ]+
+
 Couldn't get this to work: https://tex.stackexchange.com/questions/394146/creating-bilingual-german-devanagari-hindi-sanskrit-pdf-using-markdown-pa

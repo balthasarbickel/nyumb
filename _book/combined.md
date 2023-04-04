@@ -6,7 +6,7 @@ date: 2023
 ---
 \newpage
 \vspace*{\fill}
-\hfill\textit{Für Tara}
+\hfill\textit{\Large Für Tara}
 \vspace*{\fill}
 \thispagestyle{empty}
 \newpage
@@ -23,16 +23,33 @@ date: 2023
 
 \newpage
 \vspace*{\fill}
+\textbf{\Huge \sf Pasta}
+\vspace*{\fill}
+\thispagestyle{empty}
+\newpage
+
+![](../_recipes/Aelplermagronen.md){.markdown}
+
+\newpage
+
+![](../_recipes/BroccoliPasta.md){.markdown}
+
+\newpage
+\vspace*{\fill}
 \textbf{\Huge \sf Gemüse}
 \vspace*{\fill}
 \thispagestyle{empty}
 \newpage
 
-![](../_recipes/Rotkraut.md){.markdown}
+![](../_recipes/Alugobhi.md){.markdown}
 
 \newpage
 
-![](../_recipes/Randen.md){.markdown}
+![](../_recipes/Artischoken.md){.markdown}
+
+\newpage
+
+![](../_recipes/Daal.md){.markdown}
 
 \newpage
 
@@ -40,7 +57,23 @@ date: 2023
 
 \newpage
 
-![](../_recipes/kartoffelgratin.md){.markdown}
+![](../_recipes/Kartoffelgratin.md){.markdown}
+
+\newpage
+
+![](../_recipes/Randen.md){.markdown}
+
+\newpage
+
+![](../_recipes/Randensteak.md){.markdown}
+
+\newpage
+
+![](../_recipes/Rotkraut.md){.markdown}
+
+\newpage
+
+![](../_recipes/Rotweinsauce.md){.markdown}
 
 \newpage
 
@@ -48,15 +81,7 @@ date: 2023
 
 \newpage
 
-![](../_recipes/Alugobhi.md){.markdown}
-
-\newpage
-
-![](../_recipes/Daal.md){.markdown}
-
-\newpage
-
-![](../_recipes/Daal.md){.markdown}
+![](../_recipes/Spargel.md){.markdown}
 
 \newpage
 \vspace*{\fill}
@@ -71,7 +96,6 @@ date: 2023
 
 ![](../_recipes/Ekri.md){.markdown}
 
-
 \newpage 
 \vspace*{\fill}
 \textbf{\Huge \sf Fleisch}
@@ -79,16 +103,48 @@ date: 2023
 \thispagestyle{empty}
 \newpage
 
+![](../_recipes/Fleischpflanzl.md){.markdown}
+
+\newpage
 
 ![](../_recipes/roastbeef.md){.markdown}
 
 
 \newpage 
+
 \vspace*{\fill}
 \textbf{\Huge \sf Dessert}
 \vspace*{\fill}
 \thispagestyle{empty}
 \newpage
 
+![](../_recipes/Ameisenkuchen.md){.markdown}
+
+\newpage
+
+![](../_recipes/Apfelkuchen.md){.markdown}
+
+\newpage
+
+![](../_recipes/GerührterTeig.md){.markdown}
+
+\newpage
+
+![](../_recipes/Mürbteig.md){.markdown}
+
+\newpage
 
 ![](../_recipes/Quarktorte.md){.markdown}
+
+\newpage
+
+![](../_recipes/Reisauflauf.md){.markdown}
+
+\newpage
+
+![](../_recipes/Rublitorte.md){.markdown}
+
+\newpage
+
+![](../_recipes/Tiramisu.md){.markdown}
+
