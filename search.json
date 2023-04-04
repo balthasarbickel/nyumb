@@ -1,26 +1,28 @@
 [
 {"title":"Aelplermagronen","category":"Schweiz","veg":"✓","description":"","htmlfile":"Aelplermagronen.html","size":"6","time":"30m"}
 ,{"title":"आलू गोभी","category":"Indien","veg":"✓","description":"","htmlfile":"Alugobhi.html","size":"4","time":"60m"}
-,{"title":"Ameisenkuchen","category":"Deutschland","description":"Omas Ameisenkuchen","htmlfile":"Ameisenkuchen.html","sweet":"✓","size":"4","time":"60m"}
-,{"title":"Apfelkuchen 123","category":"Deutschland","description":"Apfelkuchen à la Mama","htmlfile":"Apfelkuchen.html","sweet":"✓","size":"10","time":"1 h"}
+,{"title":"Ameisenkuchen","category":"Deutschland","veg":"✓","description":"Omas Ameisenkuchen","htmlfile":"Ameisenkuchen.html","sweet":"✓","size":"4","time":"60m"}
+,{"title":"Apfelkuchen 123","category":"Deutschland","veg":"✓","description":"Apfelkuchen à la Mama","htmlfile":"Apfelkuchen.html","sweet":"✓","size":"10","time":"1 h"}
 ,{"title":"Artischoken","category":"Frankreich","veg":"✓","description":"","htmlfile":"Artischoken.html","size":"4","time":"1h"}
 ,{"title":"Broccoli-Pasta","category":"Schweiz","veg":"✓","description":"","htmlfile":"BroccoliPasta.html","size":"4","time":"30m"}
 ,{"title":"दाल","category":"Indien","veg":"✓","description":"Nach einem Rezept von unserem Kollegen Yogendra Yādāva, mit dem Balthasar in den 90er Jahren über Maithili gearbeitet hat.","htmlfile":"Daal.html","size":"4","time":"30m"}
 ,{"title":"Dörrbohnen (Tüüri Boone)","category":"Schweiz","veg":"✓","description":"","htmlfile":"Doerrbohnen.html","size":"4","time":"30m mit Dampfkochtopf"}
 ,{"title":"एक्री","category":"Indien","veg":"✓","description":"Eier-Curry, benannt nach der Aussprache des Kondukteurs im Gorakhpur-Delhi Express; inspiriert von Camellia Panjabi’s <em>50 Great Curries of India</em>","htmlfile":"Ekri.html","size":"4","time":"60m"}
-,{"htmlfile":"Fleischpflanzl.html"}
+,{"title":"Fleischpflanzl","category":"Deutschland","description":"Omas Fleischpflanzl","htmlfile":"Fleischpflanzl.html","size":"4","time":"30m","meat":"✓"}
 ,{"title":"Eingerührter Teig","category":"Schweiz","veg":"✓","description":"Rührteig für Allerlei","htmlfile":"GerührterTeig.html","size":"4","time":"10m"}
 ,{"title":"Kartoffelgratin","category":"Schweiz","veg":"✓","description":"","htmlfile":"Kartoffelgratin.html","size":"4","time":"60m"}
-,{"title":"Mürbteig","category":"Deutschland","description":"Omas 123 Rezept","htmlfile":"Mürbteig.html","sweet":"✓","size":"4","time":"10m"}
-,{"title":"Quarktorte","category":"Schweiz","description":"","htmlfile":"Quarktorte.html","sweet":"✓","size":"8","time":"2h"}
+,{"title":"Mürbteig","category":"Deutschland","veg":"✓","description":"Omas 123 Rezept","htmlfile":"Mürbteig.html","sweet":"✓","size":"4","time":"10m"}
+,{"title":"Quarktorte","category":"Schweiz","veg":"✓","description":"","htmlfile":"Quarktorte.html","sweet":"✓","size":"8","time":"2h"}
 ,{"title":"Randen","category":"Schweiz","veg":"✓","description":"","htmlfile":"Randen.html","size":"4","time":"60m"}
-,{"title":"Reisauflauf","category":"Deutschland","description":"Omas Reisauflauf, ursprünglich von Uroma in Rothenburg.","htmlfile":"Reisauflauf.html","sweet":"✓","size":"4","time":"1 h"}
+,{"title":"Randensteak","category":"Schweiz","description":"","htmlfile":"Randensteak.html","vegan":"✓","size":"4","time":"60m"}
+,{"title":"Reisauflauf","category":"Deutschland","veg":"✓","description":"Omas Reisauflauf, ursprünglich von Uroma in Rothenburg.","htmlfile":"Reisauflauf.html","sweet":"✓","size":"4","time":"1 h"}
 ,{"title":"Rotkraut","category":"Schweiz","veg":"✓","description":"","htmlfile":"Rotkraut.html","size":"4","time":"45m mit Dampfkochtopf; 2h sonst"}
-,{"title":"Rüblitorte","category":"Schweiz","description":"","htmlfile":"Rublitorte.html","sweet":"✓","size":"8","time":"1h"}
+,{"title":"Rotweinsauce","category":"Frankreich","description":"","htmlfile":"Rotweinsauce.html","vegan":"✓","size":"4","time":"40m"}
+,{"title":"Rüblitorte","category":"Schweiz","veg":"✓","description":"","htmlfile":"Rublitorte.html","sweet":"✓","size":"8","time":"1h"}
 ,{"title":"Schwarzwurzeln","category":"Schweiz","veg":"✓","description":"","htmlfile":"Schwarzwurzel.html","size":"4","time":"60m"}
 ,{"title":"Soupe à l’oignon","category":"Frankreich","description":"Wir machen diese Suppe immer aus einem Fonds, den wir durch stundenlanges (ca. 6h) Auskochen der Knochen von grilliertem Geflügel gewinne (z.B. Rumpf einer am Spiess gebratenen Weihnachtsgans.)","htmlfile":"Soupealoignon.html","size":"4","time":"1h","meat":"✓"}
 ,{"title":"Weisser Spargel im Papier","category":"Schweiz","veg":"✓","description":"","htmlfile":"Spargel.html","size":"4","time":"30m"}
-,{"title":"Tiramisu","category":"Italien","description":"","htmlfile":"Tiramisu.html","sweet":"✓","size":"4","time":"60m"}
+,{"title":"Tiramisu","category":"Italien","veg":"✓","description":"","htmlfile":"Tiramisu.html","sweet":"✓","size":"4","time":"60m"}
 ,{"title":"Coq au vin à l’italienne","category":"Italien","description":"","htmlfile":"coqauvin.html","size":"4","time":"60m","meat":"✓"}
 ,{"title":"Roastbeef","category":"Schweiz","description":"","htmlfile":"roastbeef.html","size":"4","time":"4h","meat":"✓"}
 ]
