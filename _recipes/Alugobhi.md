@@ -8,13 +8,14 @@ description:
 
 ---
 
-- `2-4` Blumenkohl
+- `2-4` Blumenkohl (je nach Grösse)
 
 > Blumenkohl in Stücken auf einem Blech ca eine halbe Stunde grillieren.
 
 ---
 
 - `2-3` Zwiebeln
+- `800g` Kartoffeln
 - `1` Pepperoncino
 - `1 TL` Kreuzkümmel
 - `1 TL` Fenchelsamen
